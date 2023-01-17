@@ -34,7 +34,7 @@ public class MainProgram {
 
         social.ShowPosts(social);
 
-        // Untuk Show Post method ada di Class UASIE
+        // Untuk ShowPost method ada di Class UAS1E
 
     }
 }
